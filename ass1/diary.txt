@@ -1,0 +1,10 @@
+Date      Start     Stop     Activity             Comments
+27/06/20. 14:00    16:30.   Coding                 Working on subset0,not hard.Almost finished.
+30/06/20. 16:00    18:00    debugging              run the auto tests of subset0,and fix those bugs.After two hours,I made it.And also finished the -a option of commit
+02/0720   18:00.   22:00.   Coding and debugging.  started to work on subset1 rm command,spent 2 hours coding.then ran the auto test and find bugs,then dubbing.
+04/07/20. 20:00.   23:00.   Coding and debugging.  Working on the status part, not hard,2 hours thing and 1 hour finishing the code, then ran auto tests and fix some little bugs.Finally past all tests of subset0 and subset1.
+06/07/20. 14:00.   16:30.   Reconstruct.           Refine my code to be branch based.Change code of subset0 and subset1.
+06/07/20. 18:00.   21:00.   Coding and debug       Working on the first branch part.
+07/07/20. 17:30.   21:30.   Coding and debug       move on to the checkout part.finally past 6 out of 12 test cases.
+13/07/20. 14:00.   17:00.   Thinking and coding    challenge the merge part, and do some lines of code.
+14/07/20. 18:00.   22:00.   Coding                 After thinking quite a while, finally give up the last merge part, really hard for me.And finish the test cases.

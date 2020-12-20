@@ -1,0 +1,10 @@
+Date       Start      Stop     Activity                Comments
+01/08/20   14:00      16:30    Coding                  Read through the spec,working on subset0
+02/08/20   14:00      16:00    Coding                  Finish subset0 and 1.And test them
+02/08/20   19:00      21:00    Coding                  Working on subset2.
+03/08/20   19:00      22:00    Coding                  Working on subset3.
+05/08/20   18:00      21:00    Debugging and Modifying After seeing subset4,working on modifying code to customize subset4
+06/08/20   18:00      21:00    Coding                  Working on subset4.
+07/08/20   14:00      17:00    Coding and testing      Working on subset4 and test auto test on lab.
+08/08/20   17:30      20:30    making demos
+08/08/20   21:00      24:00    making test scripts

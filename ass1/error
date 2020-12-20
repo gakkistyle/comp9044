@@ -1,0 +1,7 @@
+shrug-checkout: error: Your changes to the following files would be overwritten by checkout:
+
+shrug-branch: error: can not delete branch 'master'
+
+shrug-branch: error: branch 'new1' has unmerged changes
+
+shrug-branch: error: branch 'new4' does not exist

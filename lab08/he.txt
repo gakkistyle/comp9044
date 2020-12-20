@@ -1,0 +1,1405 @@
+<title>Class Search by Teaching Period</title>
+<link rel="stylesheet" type="text/css" href="../layout/2020/myunsw.css">
+<head>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   
+   <table width="100%" cellspacing="0" cellpadding="0">
+      <form name="googleForm" method="GET" action="http://www.google.com/u/theuniversityofnewsouthwales" target="_blank">
+         <tr>
+            <td width="30%" style="height:120px; border-bottom:10px solid #FFCC00; background-color:#fff;"><a href="http://www.unsw.edu.au" target="_blank"><img border="0" src="/images-timetable/banner2020.jpg" alt="The University of New South Wales" width="836" height="179" style="float:left; margin-left:20px; margin-top:25px;"></a></td>
+            <td width="70%" style="height:120px; border-bottom:10px solid #FFCC00; background-color:#fff; vertical-align:bottom; " align="right">
+               <ul>
+                  <li style="display:inline; padding-right:20px; float:right; font-family: arial, helvetica, sans-serif;font-size: 1.1em"><a href="http://www.unsw.edu.au/contacts">Contacts</a></li>
+                  <li style="display:inline; padding-right:20px; float:right; font-family: arial, helvetica, sans-serif; font-size: 1.1em"><a href="http://www.library.unsw.edu.au/" title="Visit the UNSW Library Homepage">Library</a></li>
+                  <li style="display:inline; padding-right:20px; float:right;font-family: arial, helvetica, sans-serif;font-size: 1.1em"><a href="https://my.unsw.edu.au" title="Visit the myUNSW Homepage">myUNSW</a></li>
+                  <li style="display:inline; padding-right:20px; float:right;font-family: arial, helvetica, sans-serif;font-size: 1.1em"><a href="https://student.unsw.edu.au/node/62/" title="Visit the UNSW e-Learning Homepage">e-Learning</a></li>
+               </ul>
+            </td>
+         </tr>
+      </form>
+   </table>
+   <table width="100%" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+         <td>
+            <div id="ctOuter">
+               <div id="ctInner"></div>
+               <div id="ctHeading">Class search by Subject Area</div>
+            </div>
+         </td>
+      </tr>
+   </table><script type="text/javascript">
+
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-32181153-1']);
+     _gaq.push(['_trackPageview']);
+
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+  </script></head>
+
+<html lang="en">
+   <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+      <table width="100%" cellspacing="0">
+         <tr>
+            <td class="classSearchFormBody" colspan="3">
+               <table width="100%" cellspacing="0">
+                  <tr>
+                     <td class="rowSpacer"></td>
+                  </tr>
+                  <tr>
+                     <td class="formBody" colspan="3">
+                        <table width="100%" cellspacing="0">
+                           <tr>
+                              <td class="note">Data is correct as at Fri, 24-07-2020 01:10:05 EST</td>
+                              <td class="label" width="15%" rowspan="2">Go To</td>
+                              <td class="data" width="20%"><a href="subjectSearch.html">New search by Campus/Subject Area</a></td>
+                           </tr>
+                           <tr>
+                              <td class="note"> Data is currently published for 2020 and is subject to change.</td>
+                              <td class="data"><a href="sessionSearch.html">New search by Teaching Period</a></td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td class="data"><br></td>
+                  </tr>
+                  <tr>
+                     <td class="formBody" colspan="3">
+                        <table width="100%" cellspacing="0">
+                           <tr>
+                              <td class="data" width="33%"><a href="#UGRD">Undergraduate Courses</a></td>
+                              <td class="data" width="33%"><a href="#PGRD">Postgraduate Courses</a></td>
+                              <td class="data"><a href="#RSCH">Research Courses</a></td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td class="rowSpacer" colspan="3"></td><br></tr>
+                  <tr>
+                     
+                  </tr>
+                  <tr>
+                     <td colspan="2"><a name="UGRD"></a></td>
+                  </tr>
+                  <tr>
+                     <td class="classSearchMinorHeading" colspan="2"> Undergraduate </td>
+                     <td class="classSearchMinorHeading"></td>
+                  </tr>
+                  
+                  <tr>
+                     <td class="formBody" colspan="3">
+                        <table width="100%" cellspacing="0">
+                           <tr>
+                              <td class="label" width="15%">Campus </td>
+                              <td class="data">Sydney</td>
+                           </tr>
+                           <tr>
+                              <td class="rowSpacer"></td>
+                           </tr>
+                           <tr>
+                              <td class="label">Subject Area </td>
+                              <td class="data">Computer Science</td>
+                           </tr>
+                        </table><br><table width="100%" cellspacing="0">
+                           <tr>
+                              <td colspan="3" class="classSearchSectionHeading">Subject Area Listing</td>
+                           </tr>
+                           <tr>
+                              <td class="formBody" colspan="3">
+                                 <table width="100%" cellspacing="0">
+                                    <tr>
+                                       <td width="20%" class="tableHeading">Code </td>
+                                       <td width="50%" class="tableHeading">Course Title </td>
+                                       <td width="30%" class="tableHeading">Units of Credit </td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP1000.html">COMP1000</a></td>
+                                       <td class="data"><a href="COMP1000.html">Introduction to World Wide Web, Spreadsheets and Databases</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP1010.html">COMP1010</a></td>
+                                       <td class="data"><a href="COMP1010.html">The Art of Computing</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP1511.html">COMP1511</a></td>
+                                       <td class="data"><a href="COMP1511.html">Programming Fundamentals</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP1521.html">COMP1521</a></td>
+                                       <td class="data"><a href="COMP1521.html">Computer Systems Fundamentals</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP1531.html">COMP1531</a></td>
+                                       <td class="data"><a href="COMP1531.html">Software Engineering Fundamentals</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP1911.html">COMP1911</a></td>
+                                       <td class="data"><a href="COMP1911.html">Computing 1A</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP2041.html">COMP2041</a></td>
+                                       <td class="data"><a href="COMP2041.html">Software Construction: Techniques and Tools</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP2111.html">COMP2111</a></td>
+                                       <td class="data"><a href="COMP2111.html">System Modelling and Design</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP2121.html">COMP2121</a></td>
+                                       <td class="data"><a href="COMP2121.html">Microprocessors and Interfacing</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP2511.html">COMP2511</a></td>
+                                       <td class="data"><a href="COMP2511.html">Object-Oriented Design and Programming</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP2521.html">COMP2521</a></td>
+                                       <td class="data"><a href="COMP2521.html">Data Structures and Algorithms</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3121.html">COMP3121</a></td>
+                                       <td class="data"><a href="COMP3121.html">Algorithms and Programming Techniques</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3131.html">COMP3131</a></td>
+                                       <td class="data"><a href="COMP3131.html">Programming Languages and Compilers</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3141.html">COMP3141</a></td>
+                                       <td class="data"><a href="COMP3141.html">Software System Design and Implementation</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3151.html">COMP3151</a></td>
+                                       <td class="data"><a href="COMP3151.html">Foundations of Concurrency</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3153.html">COMP3153</a></td>
+                                       <td class="data"><a href="COMP3153.html">Algorithmic Verification</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3161.html">COMP3161</a></td>
+                                       <td class="data"><a href="COMP3161.html">Concepts of Programming Languages</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3211.html">COMP3211</a></td>
+                                       <td class="data"><a href="COMP3211.html">Computer Architecture</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3222.html">COMP3222</a></td>
+                                       <td class="data"><a href="COMP3222.html">Digital Circuits and Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3231.html">COMP3231</a></td>
+                                       <td class="data"><a href="COMP3231.html">Operating Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3311.html">COMP3311</a></td>
+                                       <td class="data"><a href="COMP3311.html">Database Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3331.html">COMP3331</a></td>
+                                       <td class="data"><a href="COMP3331.html">Computer Networks and Applications</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3411.html">COMP3411</a></td>
+                                       <td class="data"><a href="COMP3411.html">Artificial Intelligence</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3431.html">COMP3431</a></td>
+                                       <td class="data"><a href="COMP3431.html">Robotic Software Architecture</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3511.html">COMP3511</a></td>
+                                       <td class="data"><a href="COMP3511.html">Human Computer Interaction</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3601.html">COMP3601</a></td>
+                                       <td class="data"><a href="COMP3601.html">Design Project A</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3821.html">COMP3821</a></td>
+                                       <td class="data"><a href="COMP3821.html">Extended Algorithms and Programming Techniques</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3891.html">COMP3891</a></td>
+                                       <td class="data"><a href="COMP3891.html">Extended Operating Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3900.html">COMP3900</a></td>
+                                       <td class="data"><a href="COMP3900.html">Computer Science Project</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP3901.html">COMP3901</a></td>
+                                       <td class="data"><a href="COMP3901.html">Special Project A</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP3902.html">COMP3902</a></td>
+                                       <td class="data"><a href="COMP3902.html">Special Project B</a></td>
+                                       <td class="data">12</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4121.html">COMP4121</a></td>
+                                       <td class="data"><a href="COMP4121.html">Advanced and Parallel Algorithms</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4128.html">COMP4128</a></td>
+                                       <td class="data"><a href="COMP4128.html">Programming Challenges</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4141.html">COMP4141</a></td>
+                                       <td class="data"><a href="COMP4141.html">Theory of Computation</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4161.html">COMP4161</a></td>
+                                       <td class="data"><a href="COMP4161.html">Advanced Topics in Software Verification</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4336.html">COMP4336</a></td>
+                                       <td class="data"><a href="COMP4336.html">Mobile Data Networking</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4337.html">COMP4337</a></td>
+                                       <td class="data"><a href="COMP4337.html">Securing Fixed and Wireless Networks</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4418.html">COMP4418</a></td>
+                                       <td class="data"><a href="COMP4418.html">Knowledge Representation and Reasoning</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4511.html">COMP4511</a></td>
+                                       <td class="data"><a href="COMP4511.html">User Interface Design and Construction</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4601.html">COMP4601</a></td>
+                                       <td class="data"><a href="COMP4601.html">Design Project B</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4920.html">COMP4920</a></td>
+                                       <td class="data"><a href="COMP4920.html">Management and Ethics</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4951.html">COMP4951</a></td>
+                                       <td class="data"><a href="COMP4951.html">Research Thesis A</a></td>
+                                       <td class="data">4</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4952.html">COMP4952</a></td>
+                                       <td class="data"><a href="COMP4952.html">Research Thesis B</a></td>
+                                       <td class="data">4</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4953.html">COMP4953</a></td>
+                                       <td class="data"><a href="COMP4953.html">Research Thesis C</a></td>
+                                       <td class="data">4</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4961.html">COMP4961</a></td>
+                                       <td class="data"><a href="COMP4961.html">Computer Science Thesis A</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4962.html">COMP4962</a></td>
+                                       <td class="data"><a href="COMP4962.html">Computer Science Thesis B</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4963.html">COMP4963</a></td>
+                                       <td class="data"><a href="COMP4963.html">Computer Science Thesis C</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6080.html">COMP6080</a></td>
+                                       <td class="data"><a href="COMP6080.html">Web Front-end Programming</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6324.html">COMP6324</a></td>
+                                       <td class="data"><a href="COMP6324.html">Internet of Things Service Design and Engineering</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6441.html">COMP6441</a></td>
+                                       <td class="data"><a href="COMP6441.html">Security Engineering and Cyber Security</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6443.html">COMP6443</a></td>
+                                       <td class="data"><a href="COMP6443.html">Web Application Security and Testing</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6445.html">COMP6445</a></td>
+                                       <td class="data"><a href="COMP6445.html">Digital Forensics</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6447.html">COMP6447</a></td>
+                                       <td class="data"><a href="COMP6447.html">System and Software Security Assessment</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6448.html">COMP6448</a></td>
+                                       <td class="data"><a href="COMP6448.html">Security Engineering Masterclass</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6452.html">COMP6452</a></td>
+                                       <td class="data"><a href="COMP6452.html">Software Architecture for Blockchain Applications</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6714.html">COMP6714</a></td>
+                                       <td class="data"><a href="COMP6714.html">Information Retrieval and Web Search</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6721.html">COMP6721</a></td>
+                                       <td class="data"><a href="COMP6721.html">(In-)Formal Methods: The Lost Art</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6733.html">COMP6733</a></td>
+                                       <td class="data"><a href="COMP6733.html">Internet of Things Experimental Design Studio</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6741.html">COMP6741</a></td>
+                                       <td class="data"><a href="COMP6741.html">Parameterized and Exact Computation</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6752.html">COMP6752</a></td>
+                                       <td class="data"><a href="COMP6752.html">Modelling Concurrent Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6771.html">COMP6771</a></td>
+                                       <td class="data"><a href="COMP6771.html">Advanced C++ Programming</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6841.html">COMP6841</a></td>
+                                       <td class="data"><a href="COMP6841.html">Extended Security Engineering and Cyber Security</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6843.html">COMP6843</a></td>
+                                       <td class="data"><a href="COMP6843.html">Extended Web Application Security and Testing</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6845.html">COMP6845</a></td>
+                                       <td class="data"><a href="COMP6845.html">Extended Digital Forensics and Incident Response</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9242.html">COMP9242</a></td>
+                                       <td class="data"><a href="COMP9242.html">Advanced Operating Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9243.html">COMP9243</a></td>
+                                       <td class="data"><a href="COMP9243.html">Distributed Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9301.html">COMP9301</a></td>
+                                       <td class="data"><a href="COMP9301.html">Cyber Security Project</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9302.html">COMP9302</a></td>
+                                       <td class="data"><a href="COMP9302.html">Cyber Security Project B</a></td>
+                                       <td class="data">12</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9313.html">COMP9313</a></td>
+                                       <td class="data"><a href="COMP9313.html">Big Data Management</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9315.html">COMP9315</a></td>
+                                       <td class="data"><a href="COMP9315.html">Database Systems Implementation</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9318.html">COMP9318</a></td>
+                                       <td class="data"><a href="COMP9318.html">Data Warehousing and Data Mining</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9319.html">COMP9319</a></td>
+                                       <td class="data"><a href="COMP9319.html">Web Data Compression and Search</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9321.html">COMP9321</a></td>
+                                       <td class="data"><a href="COMP9321.html">Data Services Engineering</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9322.html">COMP9322</a></td>
+                                       <td class="data"><a href="COMP9322.html">Software Service Design and Engineering</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9323.html">COMP9323</a></td>
+                                       <td class="data"><a href="COMP9323.html">Software as a Service Project</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9332.html">COMP9332</a></td>
+                                       <td class="data"><a href="COMP9332.html">Network Routing and Switching</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9417.html">COMP9417</a></td>
+                                       <td class="data"><a href="COMP9417.html">Machine Learning and Data Mining</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9418.html">COMP9418</a></td>
+                                       <td class="data"><a href="COMP9418.html">Advanced Topics in Statistical Machine Learning</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9444.html">COMP9444</a></td>
+                                       <td class="data"><a href="COMP9444.html">Neural Networks and Deep Learning</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9447.html">COMP9447</a></td>
+                                       <td class="data"><a href="COMP9447.html">Security Engineering Workshop</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9517.html">COMP9517</a></td>
+                                       <td class="data"><a href="COMP9517.html">Computer Vision</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9844.html">COMP9844</a></td>
+                                       <td class="data"><a href="COMP9844.html">Extended Neural Networks and Deep Learning</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td class="rowSpacer" colspan="3"></td>
+                           </tr>
+                           <tr>
+                              <td colspan="3" align="right" class="data"><a href="#top">Back to top</a></td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td class="rowSpacer" colspan="3"></td>
+                  </tr>
+                  <tr>
+                     <td colspan="2"><a name="PGRD"></a></td>
+                  </tr>
+                  <tr>
+                     <td class="classSearchMinorHeading" colspan="2"> Postgraduate </td>
+                     <td class="classSearchMinorHeading"></td>
+                  </tr>
+                  
+                  <tr>
+                     <td class="formBody" colspan="3">
+                        <table width="100%" cellspacing="0">
+                           <tr>
+                              <td class="label" width="15%">Campus </td>
+                              <td class="data">Sydney</td>
+                           </tr>
+                           <tr>
+                              <td class="rowSpacer"></td>
+                           </tr>
+                           <tr>
+                              <td class="label">Subject Area </td>
+                              <td class="data">Computer Science</td>
+                           </tr>
+                        </table><br><table width="100%" cellspacing="0">
+                           <tr>
+                              <td colspan="3" class="classSearchSectionHeading">Subject Area Listing</td>
+                           </tr>
+                           <tr>
+                              <td class="formBody" colspan="3">
+                                 <table width="100%" cellspacing="0">
+                                    <tr>
+                                       <td width="20%" class="tableHeading">Code </td>
+                                       <td width="50%" class="tableHeading">Course Title </td>
+                                       <td width="30%" class="tableHeading">Units of Credit </td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4121.html">COMP4121</a></td>
+                                       <td class="data"><a href="COMP4121.html">Advanced and Parallel Algorithms</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4141.html">COMP4141</a></td>
+                                       <td class="data"><a href="COMP4141.html">Theory of Computation</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4161.html">COMP4161</a></td>
+                                       <td class="data"><a href="COMP4161.html">Advanced Topics in Software Verification</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP4418.html">COMP4418</a></td>
+                                       <td class="data"><a href="COMP4418.html">Knowledge Representation and Reasoning</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP4511.html">COMP4511</a></td>
+                                       <td class="data"><a href="COMP4511.html">User Interface Design and Construction</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6080.html">COMP6080</a></td>
+                                       <td class="data"><a href="COMP6080.html">Web Front-end Programming</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6324.html">COMP6324</a></td>
+                                       <td class="data"><a href="COMP6324.html">Internet of Things Service Design and Engineering</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6441.html">COMP6441</a></td>
+                                       <td class="data"><a href="COMP6441.html">Security Engineering and Cyber Security</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6443.html">COMP6443</a></td>
+                                       <td class="data"><a href="COMP6443.html">Web Application Security and Testing</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6445.html">COMP6445</a></td>
+                                       <td class="data"><a href="COMP6445.html">Digital Forensics</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6447.html">COMP6447</a></td>
+                                       <td class="data"><a href="COMP6447.html">System and Software Security Assessment</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6448.html">COMP6448</a></td>
+                                       <td class="data"><a href="COMP6448.html">Security Engineering Masterclass</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6452.html">COMP6452</a></td>
+                                       <td class="data"><a href="COMP6452.html">Software Architecture for Blockchain Applications</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6714.html">COMP6714</a></td>
+                                       <td class="data"><a href="COMP6714.html">Information Retrieval and Web Search</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6721.html">COMP6721</a></td>
+                                       <td class="data"><a href="COMP6721.html">(In-)Formal Methods: The Lost Art</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6733.html">COMP6733</a></td>
+                                       <td class="data"><a href="COMP6733.html">Internet of Things Experimental Design Studio</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6741.html">COMP6741</a></td>
+                                       <td class="data"><a href="COMP6741.html">Parameterized and Exact Computation</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6752.html">COMP6752</a></td>
+                                       <td class="data"><a href="COMP6752.html">Modelling Concurrent Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6771.html">COMP6771</a></td>
+                                       <td class="data"><a href="COMP6771.html">Advanced C++ Programming</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6841.html">COMP6841</a></td>
+                                       <td class="data"><a href="COMP6841.html">Extended Security Engineering and Cyber Security</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP6843.html">COMP6843</a></td>
+                                       <td class="data"><a href="COMP6843.html">Extended Web Application Security and Testing</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP6845.html">COMP6845</a></td>
+                                       <td class="data"><a href="COMP6845.html">Extended Digital Forensics and Incident Response</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9020.html">COMP9020</a></td>
+                                       <td class="data"><a href="COMP9020.html">Foundations of Computer Science</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9021.html">COMP9021</a></td>
+                                       <td class="data"><a href="COMP9021.html">Principles of Programming</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9024.html">COMP9024</a></td>
+                                       <td class="data"><a href="COMP9024.html">Data Structures and Algorithms</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9032.html">COMP9032</a></td>
+                                       <td class="data"><a href="COMP9032.html">Microprocessors and Interfacing</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9044.html">COMP9044</a></td>
+                                       <td class="data"><a href="COMP9044.html">Software Construction: Techniques and Tools</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9101.html">COMP9101</a></td>
+                                       <td class="data"><a href="COMP9101.html">Design and Analysis of Algorithms</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9102.html">COMP9102</a></td>
+                                       <td class="data"><a href="COMP9102.html">Programming Languages and Compilers</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9153.html">COMP9153</a></td>
+                                       <td class="data"><a href="COMP9153.html">Algorithmic Verification</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9154.html">COMP9154</a></td>
+                                       <td class="data"><a href="COMP9154.html">Foundations of Concurrency</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9164.html">COMP9164</a></td>
+                                       <td class="data"><a href="COMP9164.html">Concepts of Programming Languages</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9201.html">COMP9201</a></td>
+                                       <td class="data"><a href="COMP9201.html">Operating Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9211.html">COMP9211</a></td>
+                                       <td class="data"><a href="COMP9211.html">Computer Architecture</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9222.html">COMP9222</a></td>
+                                       <td class="data"><a href="COMP9222.html">Digital Circuits and Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9242.html">COMP9242</a></td>
+                                       <td class="data"><a href="COMP9242.html">Advanced Operating Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9243.html">COMP9243</a></td>
+                                       <td class="data"><a href="COMP9243.html">Distributed Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9283.html">COMP9283</a></td>
+                                       <td class="data"><a href="COMP9283.html">Extended Operating Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9301.html">COMP9301</a></td>
+                                       <td class="data"><a href="COMP9301.html">Cyber Security Project</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9302.html">COMP9302</a></td>
+                                       <td class="data"><a href="COMP9302.html">Cyber Security Project B</a></td>
+                                       <td class="data">12</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9311.html">COMP9311</a></td>
+                                       <td class="data"><a href="COMP9311.html">Database Systems</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9313.html">COMP9313</a></td>
+                                       <td class="data"><a href="COMP9313.html">Big Data Management</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9315.html">COMP9315</a></td>
+                                       <td class="data"><a href="COMP9315.html">Database Systems Implementation</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9318.html">COMP9318</a></td>
+                                       <td class="data"><a href="COMP9318.html">Data Warehousing and Data Mining</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9319.html">COMP9319</a></td>
+                                       <td class="data"><a href="COMP9319.html">Web Data Compression and Search</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9321.html">COMP9321</a></td>
+                                       <td class="data"><a href="COMP9321.html">Data Services Engineering</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9322.html">COMP9322</a></td>
+                                       <td class="data"><a href="COMP9322.html">Software Service Design and Engineering</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9323.html">COMP9323</a></td>
+                                       <td class="data"><a href="COMP9323.html">Software as a Service Project</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9331.html">COMP9331</a></td>
+                                       <td class="data"><a href="COMP9331.html">Computer Networks and Applications</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9332.html">COMP9332</a></td>
+                                       <td class="data"><a href="COMP9332.html">Network Routing and Switching</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9336.html">COMP9336</a></td>
+                                       <td class="data"><a href="COMP9336.html">Mobile Data Networking</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9337.html">COMP9337</a></td>
+                                       <td class="data"><a href="COMP9337.html">Securing Fixed and Wireless Networks</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9414.html">COMP9414</a></td>
+                                       <td class="data"><a href="COMP9414.html">Artificial Intelligence</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9417.html">COMP9417</a></td>
+                                       <td class="data"><a href="COMP9417.html">Machine Learning and Data Mining</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9418.html">COMP9418</a></td>
+                                       <td class="data"><a href="COMP9418.html">Advanced Topics in Statistical Machine Learning</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9434.html">COMP9434</a></td>
+                                       <td class="data"><a href="COMP9434.html">Robotic Software Architecture</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9444.html">COMP9444</a></td>
+                                       <td class="data"><a href="COMP9444.html">Neural Networks and Deep Learning</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9447.html">COMP9447</a></td>
+                                       <td class="data"><a href="COMP9447.html">Security Engineering Workshop</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9511.html">COMP9511</a></td>
+                                       <td class="data"><a href="COMP9511.html">Human Computer Interaction</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9517.html">COMP9517</a></td>
+                                       <td class="data"><a href="COMP9517.html">Computer Vision</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9596.html">COMP9596</a></td>
+                                       <td class="data"><a href="COMP9596.html">Research Project</a></td>
+                                       <td class="data">12</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9801.html">COMP9801</a></td>
+                                       <td class="data"><a href="COMP9801.html">Extended Design and Analysis of Algorithms</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9814.html">COMP9814</a></td>
+                                       <td class="data"><a href="COMP9814.html">Extended Artificial Intelligence</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9844.html">COMP9844</a></td>
+                                       <td class="data"><a href="COMP9844.html">Extended Neural Networks and Deep Learning</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9900.html">COMP9900</a></td>
+                                       <td class="data"><a href="COMP9900.html">Information Technology Project</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9991.html">COMP9991</a></td>
+                                       <td class="data"><a href="COMP9991.html">Research Project A</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowLowlight">
+                                       <td class="data"><a href="COMP9992.html">COMP9992</a></td>
+                                       <td class="data"><a href="COMP9992.html">Research Project B</a></td>
+                                       <td class="data">6</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                    <tr class="rowHighlight">
+                                       <td class="data"><a href="COMP9993.html">COMP9993</a></td>
+                                       <td class="data"><a href="COMP9993.html">Research Project C</a></td>
+                                       <td class="data">12</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="rowSpacer" colspan="3"></td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td class="rowSpacer" colspan="3"></td>
+                           </tr>
+                           <tr>
+                              <td colspan="3" align="right" class="data"><a href="#top">Back to top</a></td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td class="rowSpacer" colspan="3"></td>
+                  </tr>
+               </table>
+            </td>
+         </tr>
+         <tr>
+            <td class="rowSpacer" colspan="3"></td>
+         </tr>
+      </table>
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+         <tr>
+            <td align="center" class="footer">UNSW Sydney NSW 2052, Australia Telephone: (within Aust.) 02 9385 1000, (International) +61 2 9385 1000<br>CRICOS Provider Code 00098G ABN: 57 195 873 179 Authorised by Vice-President and Deputy Vice-Chancellor (Academic)<a href="http://www.unsw.edu.au/privacy" target="_blank">Privacy Policy</a>&nbsp;&nbsp;<a href="http://www.unsw.edu.au/copyright-disclaimer" target="_blank">Copyright &amp; Disclaimer</a>&nbsp;&nbsp;<a href="http://www.unsw.edu.au/accessibility" target="_blank">Accessibility</a></td>
+         </tr>
+      </table>
+   </body>
+</html>
+</html>

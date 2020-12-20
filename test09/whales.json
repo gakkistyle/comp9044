@@ -1,0 +1,22 @@
+[
+    {
+        "date": "09/09/18",
+        "how_many": 11,
+        "species": "Orca"
+    },
+    {
+        "date": "04/11/17",
+        "how_many": 41,
+        "species": "Long-finned pilot whale"
+    },
+    {
+        "date": "17/03/18",
+        "how_many": 30,
+        "species": "Southern right whale"
+    },
+    {
+        "date": "17/08/18",
+        "how_many": 31,
+        "species": "Orca"
+    },
+]
